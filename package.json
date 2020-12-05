@@ -24,6 +24,6 @@
     "lua": {
         "name": "AceLocale-3.0",
         "svn": "https://repos.wowace.com/wow/ace3/trunk/AceLocale-3.0",
-        "entry": "Ace3/AceLocale-3.0/AceLocale-3.0.xml"
+        "entry": "AceLocale-3.0.xml"
     }
 }
